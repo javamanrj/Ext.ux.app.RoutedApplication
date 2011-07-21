@@ -1,4 +1,4 @@
-Ext.define('Ext.ux.app.TransistorController', {
+Ext.define('Ext.ux.app.RoutedController', {
 	extend: 'Ext.app.Controller',
 	constructor: function() {
 		this.refCache = {};
